@@ -1,0 +1,429 @@
+[[DDSCAT]]
+arch = "aarch64"
+git-tree-sha1 = "c0b190d9cff140f1336f80e113bc5334298c5933"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[DDSCAT.download]]
+    sha256 = "66e62dcee6269ed9737af519946a276157428b3a847fcd8ee802ee4b208718f6"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[DDSCAT]]
+arch = "aarch64"
+git-tree-sha1 = "f1f54d41b66e6b3a87391cbfc818eac60e0fa569"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[DDSCAT.download]]
+    sha256 = "0787f9642843f036776a03c833532a5c6dbc72ba218f02af27267f7b4689259b"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[DDSCAT]]
+arch = "aarch64"
+git-tree-sha1 = "2cef386037c383489437194035b37e8198e86742"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[DDSCAT.download]]
+    sha256 = "12fc4482c8c9f3b056edcbcb29330962441b8267e8a007200c06602dbdeaaa62"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[DDSCAT]]
+arch = "aarch64"
+git-tree-sha1 = "7aea5cdfa89b293d890665c3f6443127ba5570b8"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[DDSCAT.download]]
+    sha256 = "cd55ce575e34c24dee5f3991677834890920bf33376a9682f64ed03664e911a1"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[DDSCAT]]
+arch = "aarch64"
+git-tree-sha1 = "bfa1988f694360b9b6399912ea9d0e1fd1d9136d"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[DDSCAT.download]]
+    sha256 = "39dad7f2dc72b6e2a85f87769cae160f0f5c5a85e231b75fc3606f1596cacc2b"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.aarch64-linux-musl-libgfortran3.tar.gz"
+[[DDSCAT]]
+arch = "aarch64"
+git-tree-sha1 = "5aea31691b94205637b2b86abe4881c85309bcad"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[DDSCAT.download]]
+    sha256 = "4f5dec0727fe1ea88a2e661819bef64f0126b3ee80f050263bc4092c5ba5b7f4"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.aarch64-linux-musl-libgfortran4.tar.gz"
+[[DDSCAT]]
+arch = "aarch64"
+git-tree-sha1 = "8124435f1528471adeb1448cd0bdcfda7f24e2a0"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[DDSCAT.download]]
+    sha256 = "931d0e36be46426bb95894ef4876732ee74461ee292abb9764f9040ba0a06b33"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.aarch64-linux-musl-libgfortran5.tar.gz"
+[[DDSCAT]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "2a12e6988f4c614799828f33159ee237ede0b72e"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[DDSCAT.download]]
+    sha256 = "924b33421c00cbb575340d3a577af24aafd7a92040d3175c0588548bc38d4f0d"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+[[DDSCAT]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "ba6c92e0858c8928e7f8dc608dcc79039f08219c"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[DDSCAT.download]]
+    sha256 = "023e81f094eedda4ce1b344b609653cde3387a969355b5a507255d4cd53f34d9"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+[[DDSCAT]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "0eb5afc92458dd7a55f1cce7327010e3e0095adc"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[DDSCAT.download]]
+    sha256 = "e33d92a8ab7f5ba0096547c66fa453ee738bc12e92d9b6e1254b180b9d9ff3a5"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[DDSCAT]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "40e06cd30fb7732df00c692b4b91417b59181d75"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[DDSCAT.download]]
+    sha256 = "a2504ce2987f0a6af2d7acb7c30c6f963fc01198690647187dc76962d4f1ba2f"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+[[DDSCAT]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "3849901c2dd82387fa91999a89860fc89eeb3e92"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[DDSCAT.download]]
+    sha256 = "65dbbfd6f2537acac1f0a7a0b8d4574dd8422858a0c17ea30742986caf79570d"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+[[DDSCAT]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "b2ec6919bedef3bd107994b9cfe184de81ec95f7"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[DDSCAT.download]]
+    sha256 = "a27341f17a03bfd19529b0d64a0ec87e09d53b6b0cbf5849e453760fbb1ed90c"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+[[DDSCAT]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "8fd593b066ed6920d1045a825554c31a85be5e7a"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[DDSCAT.download]]
+    sha256 = "ee709a92f6664472b23b8c055a5f2e2864caec221f13d4de32bd12313f77e1c7"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[DDSCAT]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "ba24818fee8f948c2396e51f651cae4ef9afa062"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[DDSCAT.download]]
+    sha256 = "c35e80033df9e90e6e8c3b9368909f2c75c9d43a402970c0d433094d8592ab25"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[DDSCAT]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "c2a69f32c6295108f07eee42e5cc0916c298ecec"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[DDSCAT.download]]
+    sha256 = "58055195d0557ef9d38086c05c196c0c8b0f182ea120f86aaa98827a38f2accc"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[DDSCAT]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "932ee50a63529680d60f20fb10f70f25676c17dd"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[DDSCAT.download]]
+    sha256 = "ebff1626f682a2b685b44cd93f3229e6942c7a883f3f8f4104fcaa4f6ba58b90"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+[[DDSCAT]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a72143a49cd63895574623403ef82d3e2108afd7"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[DDSCAT.download]]
+    sha256 = "0422dcea0eeec53f0d1234c1bfb8fb24a6f39e0f52664e5cfc08bc61b22f1d38"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[DDSCAT]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "015eea78fb2c7b5c13c0b148028b18547a753fb1"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[DDSCAT.download]]
+    sha256 = "a8c576c6d5d12b28795f78bf4663d170012fa0b69e12fa862bd1a89799d4ba8d"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[DDSCAT]]
+arch = "i686"
+git-tree-sha1 = "9c70ee56e66816a62740d0a0d56f741e432f49ae"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[DDSCAT.download]]
+    sha256 = "eca80b2fcc36040edda8aa32daaa72ea9a8664c2218220586d38fe2336035919"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.i686-linux-gnu-libgfortran3.tar.gz"
+[[DDSCAT]]
+arch = "i686"
+git-tree-sha1 = "06a1ccb84a2393d08241c24ce5995d9f05395845"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[DDSCAT.download]]
+    sha256 = "fa5a764b90bb542e75521c4c8cbc7de44b4ef9a33fa839f04ef9735a328e33fc"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.i686-linux-gnu-libgfortran4.tar.gz"
+[[DDSCAT]]
+arch = "i686"
+git-tree-sha1 = "4b62dda95f76619aebe5a4ec0aaef37c750e2bb2"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[DDSCAT.download]]
+    sha256 = "04972b26a4b52dd1d7c484439a8a9f27df1cae818f2d3cc712813c099f782446"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.i686-linux-gnu-libgfortran5.tar.gz"
+[[DDSCAT]]
+arch = "i686"
+git-tree-sha1 = "b281389484c28ad0238efb319b85e141c6ce942b"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[DDSCAT.download]]
+    sha256 = "3b7218429c04df2a9cd3c571f6908db10a601d340cad3770eee37cb37a0eeb56"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.i686-linux-musl-libgfortran3.tar.gz"
+[[DDSCAT]]
+arch = "i686"
+git-tree-sha1 = "a68e6685579f557ab0e428fdaa06b87c391584fd"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[DDSCAT.download]]
+    sha256 = "d2084eaf088b3006974f375d3773e82fa2bc5ec077b900467e650f4f7e46b28c"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.i686-linux-musl-libgfortran4.tar.gz"
+[[DDSCAT]]
+arch = "i686"
+git-tree-sha1 = "d6c23243b29c30dfac312bf9d58d0272400602c9"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[DDSCAT.download]]
+    sha256 = "bdaf274bc23ea0093c147ca3d440b3182d68d12e1996b424568a378128beb644"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.i686-linux-musl-libgfortran5.tar.gz"
+[[DDSCAT]]
+arch = "i686"
+git-tree-sha1 = "2a182b5fd9fb896546c9377ec674858e95fe40db"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[DDSCAT.download]]
+    sha256 = "8e63a2ebf41524826a9b293ed7d5591854f69b5aeff5b7ab6bf66a1b0f9147af"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.i686-w64-mingw32-libgfortran3.tar.gz"
+[[DDSCAT]]
+arch = "i686"
+git-tree-sha1 = "b87d1c13ae3d5003240e88dac06aa8f9be467b40"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[DDSCAT.download]]
+    sha256 = "9255200c30c6ecdcc78f6ca9b023b701008ce3fc11fb847cdaf9715d8ae7f6ce"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.i686-w64-mingw32-libgfortran4.tar.gz"
+[[DDSCAT]]
+arch = "i686"
+git-tree-sha1 = "ed35c48b8f099431da2512e6e1f19bab9b772334"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[DDSCAT.download]]
+    sha256 = "d8bb99b9166469a41e2473b3a0794da00ec5e134ea4bb5bc88bda70d7f4185f4"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.i686-w64-mingw32-libgfortran5.tar.gz"
+[[DDSCAT]]
+arch = "x86_64"
+git-tree-sha1 = "9dfe1c6148226aa5de8c0c8c80aa27678cd43db3"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[DDSCAT.download]]
+    sha256 = "1c1e5fc00c7b8847a269329335589b837ca5d596f143b84cea09ec202d6215b3"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[DDSCAT]]
+arch = "x86_64"
+git-tree-sha1 = "077b62ceb77b244f92ad718f8deb412f0699d219"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[DDSCAT.download]]
+    sha256 = "c55f47024440632c0cff12a54494e886c9ffa89103cb4c5f34ac7a4dbc53c21a"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[DDSCAT]]
+arch = "x86_64"
+git-tree-sha1 = "2ec2633d4f2d11a3f74eeda8aca7b1cf982be061"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[DDSCAT.download]]
+    sha256 = "d628632d8566fc7ec97c31dca4c3cacf7a14e271acd0d25b5ce7dd9dd330ace3"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[DDSCAT]]
+arch = "x86_64"
+git-tree-sha1 = "f2231de660e62ac72120f0906b2b06354e19ef89"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[DDSCAT.download]]
+    sha256 = "f5f78781b261babd9520e566bed4fa50fa775132ff7aa0066ec9759326225355"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[DDSCAT]]
+arch = "x86_64"
+git-tree-sha1 = "c8ac0bad97f0fc07b164e8304123ea0acd49a83a"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[DDSCAT.download]]
+    sha256 = "cf3d3da7b80210b1c367c0f1f944f6b1ad43e6851eb607360160bb55aeeeaa73"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[DDSCAT]]
+arch = "x86_64"
+git-tree-sha1 = "35d3793297ef71a3b790e0191ccb3cf10c7969c9"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[DDSCAT.download]]
+    sha256 = "7db0072459e69d2a27a2d7c8eddcf79ee4e56d0f847a488e1e8aa04df2ab55a4"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[DDSCAT]]
+arch = "x86_64"
+git-tree-sha1 = "f45202a2365e88b04c52f0fa44fc33892db95ee4"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[DDSCAT.download]]
+    sha256 = "25ee2b1a03db4789289a3b217b31565d379d5c45856b9c605fcced82bd6458ca"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.x86_64-linux-musl-libgfortran3.tar.gz"
+[[DDSCAT]]
+arch = "x86_64"
+git-tree-sha1 = "349e23de830c9c46f5867b6b70e4878bf4dde22a"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[DDSCAT.download]]
+    sha256 = "431ada32bb0da7021a3e974f9f93bd29543172a6bddc5fde98e9aba1372cd2c8"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.x86_64-linux-musl-libgfortran4.tar.gz"
+[[DDSCAT]]
+arch = "x86_64"
+git-tree-sha1 = "51a784fed9223c09a14255fc27bf81dced7ce85d"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[DDSCAT.download]]
+    sha256 = "58e69529a849470986f41fbe90a3b37018b5c10ddeb49a97fd0a76f145c0b916"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.x86_64-linux-musl-libgfortran5.tar.gz"
+[[DDSCAT]]
+arch = "x86_64"
+git-tree-sha1 = "e92751f00cbc149e85a51f8898ff587b13fdb85a"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[DDSCAT.download]]
+    sha256 = "a82bc9e8158be41f09b8d58a6a3ad1d1d14493ce989424dd176e2dd182a1c48a"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[DDSCAT]]
+arch = "x86_64"
+git-tree-sha1 = "fab4d146ba7e3f9e51218ede6885cabe1d4e9274"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[DDSCAT.download]]
+    sha256 = "68223e9cfb43d6c596a39637fdb848224f21b516fd7c0725e42433b158db30a8"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[DDSCAT]]
+arch = "x86_64"
+git-tree-sha1 = "f6e2a47b99dc2ebf4596ed64fd8f1f9a04d7694a"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[DDSCAT.download]]
+    sha256 = "afdb4971d43f8032c613b9141d484fcb233384fa7e5753265cf62b38220b3383"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[DDSCAT]]
+arch = "x86_64"
+git-tree-sha1 = "1991849d1cda76734960a785499355611e7692de"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[DDSCAT.download]]
+    sha256 = "e778a3ba8d6a8822e89ff57099d9a3ec0df7f23606548a6fa3bc30db7fc427b9"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[DDSCAT]]
+arch = "x86_64"
+git-tree-sha1 = "d6778cad077fd3d4ad8bd54f6641cdc41f7bd928"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[DDSCAT.download]]
+    sha256 = "15a5e899393a9cf4809ff48106cb30d9ede0b4861c900883926114551df73346"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[DDSCAT]]
+arch = "x86_64"
+git-tree-sha1 = "e1e56cc9963d5c7e925b924f2ea7fc5904643888"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[DDSCAT.download]]
+    sha256 = "9718b43c7f3ce6a79ebdca1e3bbd47f63fafcfc7248e47e95b14c551c6d2f03a"
+    url = "https://github.com/JuliaBinaryWrappers/DDSCAT_jll.jl/releases/download/DDSCAT-v7.3.3+0/DDSCAT.v7.3.3.x86_64-w64-mingw32-libgfortran5.tar.gz"
